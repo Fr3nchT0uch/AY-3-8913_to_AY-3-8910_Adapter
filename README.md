@@ -1,15 +1,15 @@
 # Adapter_8913_to_8910
 
-A simple adapter to replace AY-8913 with AY-8910 (or YM-2149)
+A simple adapter to replace the AY-3-8913 with the AY-3-8910 (or the YM2149)
 
-## Why to replace AY-8913 ?
-If you've read this article https://www.fenarinarsa.com/?p=3183, you know that there's a chance your Mockingboard with AY-8913 will sound *weird* under certain circumstances.
-That's why we decided to do an adapter to easily replace the AY-8913 with an AY-8910 (or a YM-2149) which does not suffer from the same issue and is more readily available.
+## Why to replace the AY-3-8913 ?
+If you've read this article https://www.fenarinarsa.com/?p=3183, you know that there's a chance your Mockingboard with AY-3-8913 will sound *weird* under certain circumstances.
+That's why we decided to do an adapter to easily replace the AY-3-8913 with the AY-3-8910 (or the YM2149) which does not suffer from the same issue and is more readily available.
 We have made several designs giving you the choice for your use!
 And they can of course be used as a basis for your own project! 
 
 
-**Note about the Phasor Card**: these adapters are designed to be used primarily on a *Mockingboard*. For the *Phasor*, as there are 4 AY-8913s potentially to be replaced, it will probably be necessary to use a *daughter board* as adapter. This is beyond the scope of this project (for now...)
+**Note about the Phasor Card**: these adapters are designed to be used primarily on a *Mockingboard*. For the *Phasor*, as there are 4 AY-3-8913s potentially to be replaced, it will probably be necessary to use a *daughter board* as adapter. This is beyond the scope of this project (for now...)
 
 
 ## Credits:  
@@ -24,7 +24,10 @@ https://github.com/Jean-Fred64
 GNU GENERAL PUBLIC LICENSE 3
 
 ## Reference:
-Mockingboard:  
+Datasheets:  
+AY-3-8910: https://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf  
+YM2149: http://www.ym2149.com/ym2149.pdf  
+Mockingboard Info:  
 https://en.wikipedia.org/wiki/Mockingboard
 https://www.reactivemicro.com/product/mockingboard-assembled-or-kit/
 
@@ -38,32 +41,32 @@ https://www.pcbway.com/
 ----  
 ## PCB designs :
 
-## "Angle" version for Mockingboard (Two different PCBs for each AY-8913)
+## "Angle" version for Mockingboard (Two different PCBs for each AY-3-8913)
 ![adapter 8913-8910 Angle Left](Angle/Medias/adapter_8913-8910___Angle_L__R.png)
  
-**LEFT** for *top* AY-8913:
+**LEFT** for *top* AY-3-8913:
 ![adapter 8913-8910 Angle Left](Angle/adapter_8913-8910%20_%20Angle%20L/Medias/adapter%208913-8910%20Angle%20L%20TOP.png)
 
-**RIGHT** for *bottom* AY-8913:
+**RIGHT** for *bottom* AY-3-8913:
 ![adapter 8913-8910 Angle Left](Angle/adapter_8913-8910%20_%20Angle%20R/Medias/adapter%208913-8910%20Angle%20R%20TOP.png)
 
-- to replace one or **two** AY-8913 on your Mockingboard.
-- you must use each version for the TOP and BOTTOM AY-8913 on your Mockbingboard.
-- pay attention to the insertion direction of the AY-8910.
+- to replace one or **two** AY-3-8913 on your Mockingboard.
+- you must use each version for the TOP and BOTTOM AY-3-8913 on your Mockbingboard.
+- note: pay attention to the insertion direction of the AY-3-8910 on the adapter.
 
 ----  
 
-## "Triangle" version for Mockingboard (A single PCB for the two AY-8913s)
+## "Triangle" version for Mockingboard (A single PCB for the two AY-3-8913s)
 ![adapter 8913-8910 zoom header](Triangle/Medias/adapter%208913-8910%20triangle%20TOP.png)
 
-- alternative (and ultimate) version to replace the TWO AY-8913 on the Mockingboard on the same board.
+- alternative (and ultimate) version to replace the TWO AY-3-8913 on the Mockingboard on the same board.
 
 ----
 ## "Normal" general version
 ![adapter 8913-8910 Normal](Normal/Medias/adapter%208913-8910%20long%20board%20reverse%20on%20air%20TOP.png)
 
-- to replace only **one** AY-8913 on your MB (the **bottom** one only!).
-- to replace the AY-8913 on other machines (for example: some old Pinball *soundcards*).
-- pay attention to the insertion direction of the AY-8910.
+- to replace only **one** AY-3-8913 on the Mockingboard (the **bottom** one only!).
+- to replace the AY-3-8913 on other machines (for example: some old Pinball *soundcards*).
+- note: pay attention to the insertion direction of the AY-3-8910 on the adapter.
 
-- **WARNING**: do not use this model if you want to replace the **TWO** AY-8913s on your Mockingboard because you will not be able to close the Apple II cover! Use the other designs instead!
+- **WARNING**: do not use this model if you want to replace the **TWO** AY-3-8913s on your Mockingboard because you will not be able to close the Apple II cover! Use the other designs instead!
