@@ -5,6 +5,9 @@ A simple adapter to replace the AY-3-8913 with the AY-3-8910 (or the YM2149)
 
 ## Why to replace the AY-3-8913 ?
 If you've read this article https://www.fenarinarsa.com/?p=3183, you know that there's a chance your Mockingboard with AY-3-8913 will sound *weird* under certain circumstances.
+
+Here a short video to hear the difference between a faulty AY-3-8913 and an AY-3-8910 in action (featuring Digidream 2): https://youtu.be/_qslugOY2Dw
+
 That's why we decided to do an adapter to easily replace the AY-3-8913 with the AY-3-8910 (or the YM2149) which does not suffer from the same issue and is more readily available.
 We have made several designs giving you the choice for your use!
 And they can of course be used as a basis for your own project! 
