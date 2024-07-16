@@ -1,4 +1,5 @@
-# Adapter_8913_to_8910
+# AY-3-8913 to AY-3-8910 Adapter
+
 
 A simple adapter to replace the AY-3-8913 with the AY-3-8910 (or the YM2149)
 
@@ -27,6 +28,7 @@ GNU GENERAL PUBLIC LICENSE 3
 Datasheets:  
 AY-3-8910: https://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf  
 YM2149: http://www.ym2149.com/ym2149.pdf  
+
 Mockingboard Info:  
 https://en.wikipedia.org/wiki/Mockingboard
 https://www.reactivemicro.com/product/mockingboard-assembled-or-kit/
