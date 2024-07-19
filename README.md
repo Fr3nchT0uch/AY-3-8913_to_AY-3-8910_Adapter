@@ -6,7 +6,7 @@ A simple adapter to replace the AY-3-8913 with the AY-3-8910 (or the YM2149)
 ## Why to replace the AY-3-8913 ?
 If you've read this article https://www.fenarinarsa.com/?p=3183, you know that there's a chance your Mockingboard with AY-3-8913 will sound *weird* under certain circumstances.
 
-Here a short video to hear the difference between a faulty AY-3-8913 and an AY-3-8910 in action (featuring Digidream 2): https://youtu.be/_qslugOY2Dw
+Here a short video to hear the difference between a faulty AY-3-8913 and an AY-3-8910 in action (featuring Digidream 2): https://www.youtube.com/watch?v=_qslugOY2Dw
 
 That's why we decided to do an adapter to easily replace the AY-3-8913 with the AY-3-8910 (or the YM2149) which does not suffer from the same issue and is more readily available.
 We have made several designs giving you the choice for your use!
@@ -80,3 +80,5 @@ https://www.pcbway.com/
 ## Audio Output:
 
 Each PCD design has an **Audio Output** (pins) for direct connection to the AY-3-8910/YM2149 without using the Mockingboard amplification part. This allows for much better quality with a line level output.
+
+To be heard here: https://www.youtube.com/watch?v=SWxKD_74ifs
