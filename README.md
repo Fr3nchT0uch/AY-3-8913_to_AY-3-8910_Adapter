@@ -44,7 +44,7 @@ https://www.pcbway.com/
 
 
 ----  
-## PCB designs :
+## PCB designs:
 
 ## "Angle" version for Mockingboard (Two different PCBs for each AY-3-8913)
 ![adapter 8913-8910 Angle Left](Angle/Medias/adapter_8913-8910___Angle_L__R.png)
@@ -75,3 +75,8 @@ https://www.pcbway.com/
 - note: pay attention to the insertion direction of the AY-3-8910 on the adapter.
 
 - **WARNING**: do not use this model if you want to replace the **TWO** AY-3-8913s on your Mockingboard because you will not be able to close the Apple II cover! Use the other designs instead!
+
+
+## Audio Output:
+
+Each PCD design has an **Audio Output** (pins) for direct connection to the AY-3-8910/YM2149 without using the Mockingboard amplification part. This allows for much better quality with a line level output.
